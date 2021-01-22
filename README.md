@@ -27,6 +27,7 @@
 - SMS Bombing
 > #### Spoofing
 - Mail Spoofing
+- MAC Spoofing
 > #### Anonymity 
 - Change IP Address Every Seconds
 - Change MAC Address Every Seconds
