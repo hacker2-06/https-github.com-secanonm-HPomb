@@ -1,3 +1,4 @@
-requests >=2, <3
-urllib3 >=1, <2
-notify2
+hpcomt
+requests
+lolcat
+colorama
