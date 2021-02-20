@@ -19,6 +19,9 @@
 </a>
 </center>
 
+### Telegram : <a href="https://t.me/hpombtool" > HPomb Tool<a/>
+
+
 ## Features:
 
 > #### Bombing
