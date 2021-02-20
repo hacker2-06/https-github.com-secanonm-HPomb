@@ -92,5 +92,5 @@ To use the HPomb type the following commands in macOS terminal:
 ## Contact Me
 * <b>YOUTUBE CHANNEL : https://www.youtube.com/c/SECANONM</b>
 * <b>TWITTER I'D : https://twitter.com/secanonm/ </b>
-* Telegram : <a href="https://t.me/hpombtool" > HPomb Tool<a/>
+* Telegram : <a href="https://t.me/hpombtool" > <b>HPomb Tool</b><a/>
 
