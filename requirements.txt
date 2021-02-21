@@ -2,3 +2,5 @@ hpcomt
 requests
 lolcat
 colorama
+netifaces
+randmac
