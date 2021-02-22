@@ -1,4 +1,4 @@
-# HPomb v2020.02 Coming Soon
+# HPomb v2020.02
 
 <H5 class="" align="right">
   Created By Secanonm
@@ -56,7 +56,8 @@ To use the HPomb type the following commands in Termux:
 + git clone https://github.com/secanonm/HPomb.git
 - cd HPomb
 + chmod +x hpomb.py
-- python3 hpomb.py
+- pip3 install -r requiremenst.txt 
++ python3 hpomb.py
 ```
 
 ### > For Linux:
@@ -68,7 +69,8 @@ To use the HBomb type the following commands in Linux terminal:
 + git clone https://github.com/secanonm/HPomb.git
 - cd HPomb
 + chmod +x hpomb.py
-- python3 hpomb.py
+- sudo pip3 install -r requiremenst.txt 
++ sudo python3 hpomb.py
 ```
 
 ### > For macOS:
@@ -87,10 +89,11 @@ To use the HPomb type the following commands in macOS terminal:
 + sudo pip install --upgrade pip
 - git clone https://github.com/secanonm/HPomb.git
 + cd HPomb
-- python3 hpomb.py
+- sudo pip3 install -r requiremenst.txt 
++ sudo python3 hpomb.py
 ```
 ## Contact Me
 * <b>YOUTUBE CHANNEL : https://www.youtube.com/c/SECANONM</b>
 * <b>TWITTER I'D : https://twitter.com/secanonm/ </b>
-* Telegram : <a href="https://t.me/hpombtool" > <b>HPomb Tool</b><a/>
+* <b>Telegram : <a href="https://t.me/hpombtool" >HPomb Tool</b><a/>
 
