@@ -43,13 +43,15 @@
 ## Requirements
 * Python3.6 =<
 
-## Usage:
+## Installation :
 
-Run these commands to Run HPomb
+<a href="https://youtu.be/5M0Br55bcUY" > For Installation Video  : link</a>
 
 ### > For Termux:
 
 To use the HPomb type the following commands in Termux:
+<a href="https://youtu.be/5M0Br55bcUY" > For Installation Video  : link </a>
+
 ```diff
 + pkg install git
 - pkg install python
@@ -63,6 +65,8 @@ To use the HPomb type the following commands in Termux:
 ### > For Linux:
 
 To use the HBomb type the following commands in Linux terminal:
+<a href="https://youtu.be/5M0Br55bcUY" > For Installation Video  : link </a>
+
 ```diff
 + sudo apt-get install git
 - sudo apt-get install python3
@@ -76,6 +80,8 @@ To use the HBomb type the following commands in Linux terminal:
 ### > For macOS:
 
 To use the HPomb type the following commands in macOS terminal:
+<a href="https://youtu.be/5M0Br55bcUY" > For Installation Video  : link </a>
+
 ```diff
 # Install Brew: 
 
@@ -92,6 +98,9 @@ To use the HPomb type the following commands in macOS terminal:
 - sudo pip3 install -r requiremenst.txt 
 + sudo python3 hpomb.py
 ```
+
+<a href="https://youtu.be/5M0Br55bcUY" > For Installation Video  : link </a>
+
 ## Contact Me
 * <b>YOUTUBE CHANNEL : https://www.youtube.com/c/SECANONM</b>
 * <b>TWITTER I'D : https://twitter.com/secanonm/ </b>
